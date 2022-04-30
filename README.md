@@ -1,4 +1,4 @@
-# The beginnings of a Gnome (Wayland!) window mover thingamajig
+# A (not yet implemented) Gnome (Wayland) window mover
 
 Configure your monitor into regions, and bind keys to move the current window
 into a given region. Imagine that!
