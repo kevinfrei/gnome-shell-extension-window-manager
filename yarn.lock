@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-gnome-shell-extension-types@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/gnome-shell-extension-types/-/gnome-shell-extension-types-0.0.1.tgz#e3079a230f71005f88f3b1ab4fbab0094513bfdf"
-  integrity sha512-qAamPpbOkhYhNLF1fbDFZCcreji5Yz21mpLTMxSmyio9p4+5WJSsHBmjGT/buerRviU1IqqnjArcn4bjl7LPnQ==
-
 prettier@^2.6.2:
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.6.2.tgz#e26d71a18a74c3d0f0597f55f01fb6c06c206032"
