@@ -1,0 +1,8 @@
+{
+  "description": "Configure windows in a variety of ways with a variety of keys",
+  "name": "Windows Position Manager",
+  "original-authors": "kevinfrei@hotmail.com",
+  "shell-version": ["3.36", "3.38", "40", "41", "42"],
+  "url": "https://github.com/kevinfrei/gnome-shell-extension-window-manager",
+  "uuid": "windowManager@kevinfrei@hotmail.com"
+}

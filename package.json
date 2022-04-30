@@ -1,0 +1,18 @@
+{
+  "name": "gnome-shell-extension-window-manager",
+  "version": "0.0.1",
+  "description": "Gnome Shell Extension for a configurable window grid with the keyboard",
+  "main": "index.js",
+  "repository": "https://github.com/kevinfrei/gnome-shell-extension-window-manager.git",
+  "author": "Kevin Frei <kevinfrei@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "format": "prettier --write \"src/**/*.ts\" \"*.json\" \"*.md\" \"windowManager@kevinfrei@hotmail.com/**/*.js\" \"windowManager@kevinfrei@hotmail.com/**/*.json\""
+  },
+  "devDependencies": {
+    "gnome-shell-extension-types": "^0.0.1",
+    "prettier": "^2.6.2",
+    "typescript": "^4.6.4"
+  }
+}
